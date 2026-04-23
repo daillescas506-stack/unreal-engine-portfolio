@@ -1,16 +1,16 @@
-# unreal-engine-portfolio
-
-Portafolio de mi aprendizaje por UE5
-
 \# Unreal Engine 5 Learning Portfolio
 
 
 
-Este repositorio documenta mi proceso de aprendizaje en desarrollo de videojuegos utilizando Unreal Engine 5, siguiendo el curso de Udemy impartido por Carlos Coronado.
+Portafolio de mi aprendizaje en desarrollo de videojuegos con Unreal Engine 5, siguiendo el curso de Udemy impartido por Carlos Coronado.
 
 
 
-Aquí reúno prácticas, sistemas, escenas y proyectos desarrollados durante mi formación, aplicando conceptos fundamentales y avanzados del motor.
+En este repositorio documento mi progreso creando escenas, sistemas y experiencias interactivas mientras desarrollo habilidades prácticas en Unreal Engine 5.
+
+
+
+\---
 
 
 
@@ -28,15 +28,19 @@ Durante este proceso he trabajado en:
 
 \- Uso del sistema de Blueprints
 
-\- Configuración de iluminación y atmósferas
+\- Configuración de iluminación cinematográfica
 
 \- Materiales y texturas
 
-\- Implementación de mecánicas básicas de juego
+\- Implementación de mecánicas básicas
 
-\- Optimización inicial de escenas
+\- Uso de cámaras y secuencias cinematográficas
 
-\- Uso de control de versiones con Git y GitHub
+\- Control de versiones con Git y GitHub
+
+
+
+\---
 
 
 
@@ -46,11 +50,15 @@ Durante este proceso he trabajado en:
 
 \- Unreal Engine 5
 
-\- Blueprints Visual Scripting
+\- Blueprints
+
+\- Git
 
 \- GitHub Desktop
 
-\- Git
+
+
+\---
 
 
 
@@ -58,7 +66,33 @@ Durante este proceso he trabajado en:
 
 
 
-Mi objetivo es fortalecer mis habilidades en desarrollo de videojuegos, crear proyectos cada vez más completos y construir un portafolio sólido enfocado en Unreal Engine 5.
+Mi objetivo es fortalecer mis habilidades en desarrollo de videojuegos y construir un portafolio sólido enfocado en Unreal Engine 5, diseño de entornos y experiencias inmersivas.
+
+
+
+\---
+
+
+
+\## Proyecto visual destacado
+
+
+
+\### Cinemática creada en Unreal Engine 5
+
+
+
+He desarrollado una secuencia cinemática utilizando herramientas de cámara, iluminación y composición visual en Unreal Engine 5.
+
+
+
+🎬 \*\*Ver cinemática aquí:\*\*  
+
+https://www.youtube.com/watch?v=oqKhcOe9nYE
+
+
+
+\---
 
 
 
@@ -66,19 +100,5 @@ Mi objetivo es fortalecer mis habilidades en desarrollo de videojuegos, crear pr
 
 
 
-Actualmente continúo desarrollando nuevos proyectos y ampliando conocimientos en diseño, programación visual y construcción de experiencias interactivas.
-
-
-
-\## Próximamente
-
-
-
-\- Capturas de proyectos
-
-\- Sistemas implementados
-
-\- Nuevas escenas jugables
-
-\- Proyectos personales
+Actualmente continúo desarrollando nuevos proyectos y ampliando conocimientos en diseño, programación visual y creación de experiencias interactivas.
 
